@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    margin-top: 1%;
+}
+
+#result {
+    display: flex;
+    margin-top: 10px;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+label {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+button {
+    margin-left: 10px;
+}
